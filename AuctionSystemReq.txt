@@ -1,3 +1,5 @@
+https://leetcode.com/discuss/post/6039919/flipkart-sde-2-machine-coding-round-by-a-ptyz/
+
 Problem Definition:
 A company FooBar has hosted an Online Auction System where any User(seller) can sell an object through an auction.
 Each auction has a lowest bid limit and the highest bid limit.
