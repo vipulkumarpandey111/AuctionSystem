@@ -1,0 +1,18 @@
+Entities
+    -User
+        -Buyer (Name, Id)
+        -Seller (Name, Id)
+    -Bid (Id, UserId, AuctionId, Amount)
+    -Auction 
+        -Create Auction(id, lowest bid limit, highest bid limit, partiticipation_cost, Seller)
+        -Withdraw (UserId, ProductId) (//If Auction Not complete)
+        -CloseAuction()
+        -ShowHighestWinningBid()
+        -ShowProfit(SellerId)
+
+Managers
+    -BuyerManager
+    -SellerManager
+    -AuctionManager
+    -BidManager
+        
